@@ -5,8 +5,8 @@
 
 // Define model and input pin:
 #define IRPin A0
-#define IRpin2 A1
-#define IRpin3 A2 
+#define IRPin2 A1
+#define IRPin3 A2 
 
 #define model 1080
 
